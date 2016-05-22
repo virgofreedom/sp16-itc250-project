@@ -1,0 +1,30 @@
+ChangeLog for nmSession Package: 2012-07-12  Bill Newman  <williamnewman@gmail.com>
+
+This is an informal changelog, a summary of changes in each version and between.
+Changes are categorized as Change, Fix, Sec (Security Issue) or Feature.
+
+Version 1.23 (2012-07-12)
+[Fix]  aligned admin_session_clean.php with new config->adminDashboard link
+[Feature] Added version of admin_dashboard.php that links admin_session_clean.php
+[Feature] admin_dashboard.php adds pre-load capability to adminer credentials on qstring 
+
+Version 1.22 (2010-10-07)
+[Change]  session_clean.php changed to admin_session_clean.php and revamped
+
+Version 1.21 (2010-10-07)
+[Fix]  Changed config include path reference inside session_clean.php
+
+Version 1.21 (2010-07-26)
+[Feature]  Created session_clean.php page to trigger garbage collection from admin page
+[Fix]  Fixed idbIn() wrapper function in session_eliminate()
+[Fix]  Fixed $ typo in session_clean()
+
+Version 1.2 (2010-07-14)
+[Change]  Changed DB to singleton class mysqli connection
+[Change]  Changed SessionID to PHPSessID (still a string)
+
+Version 1.1 (2009-09-14)
+[Feature]  Changed all DB calls to mysqli instead of mysql
+
+Version 1.0 (2009-08-12)
+[Change] Original version of package

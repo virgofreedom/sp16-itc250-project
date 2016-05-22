@@ -1,0 +1,183 @@
+[May-20-2016 0:12:00] Table 'rattana_admin.sp16_surveys' doesn't exist in /var/www/html/itc250/inc_0700/Pager_inc.php on line 140
+[May-20-2016 0:12:55] Table 'rattana_admin.sp16_surveys' doesn't exist in /var/www/html/itc250/inc_0700/Pager_inc.php on line 140
+[May-20-2016 0:13:00] Table 'rattana_admin.sp16_surveys' doesn't exist in /var/www/html/itc250/inc_0700/Pager_inc.php on line 140
+[May-20-2016 16:13:58] mysqli_connect(): (28000/1045): Access denied for user 'rattana_admin'@'c-66-235-5-72.sea.wa.customer.broadstripe.net' (using password: YES) in /var/www/html/itc250/inc_0700/common_inc.php on line 1271
+[May-20-2016 16:13:58] Access denied for user 'rattana_admin'@'c-66-235-5-72.sea.wa.customer.broadstripe.net' (using password: YES) in /var/www/html/itc250/inc_0700/common_inc.php on line 1271
+[May-20-2016 16:14:53] Table 'rattana_admin.sp16_surveys' doesn't exist in /var/www/html/itc250/inc_0700/Pager_inc.php on line 140
+[May-20-2016 16:19:42] Unknown column 'SurveyID' in 'field list' in /var/www/html/itc250/surveys/index.php on line 52
+[May-20-2016 16:20:51] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:20:51] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:21:10] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:21:10] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:08] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:08] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:43] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:43] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:46] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:46] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:22:47] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 29
+[May-20-2016 16:22:47] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/itc250/surveys/survey_view.php on line 35
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:13] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 36
+[May-20-2016 16:33:14] Undefined variable: myID in /var/www/html/itc250/surveys/survey_view.php on line 42
