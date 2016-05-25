@@ -1,0 +1,147 @@
+[May-25-2016 11:58:59] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 104
+[May-25-2016 11:59:41] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 104
+[May-25-2016 11:59:42] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 104
+[May-25-2016 11:59:43] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 104
+[May-25-2016 11:59:48] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 104
+[May-25-2016 12:00:00] Undefined variable: sql in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 59
+[May-25-2016 12:00:00] mysqli_query(): Empty query in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 59
+[May-25-2016 12:00:00]  in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 59
+[May-25-2016 12:00:25] Undefined variable: sql in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 71
+[May-25-2016 12:00:25] SQL statement must include a single space on each side of the SQL keyword ' from ' in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/Pager_inc.php on line 136
+[May-25-2016 12:02:10] Undefined variable: sql in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 71
+[May-25-2016 12:02:10] SQL statement must include a single space on each side of the SQL keyword ' from ' in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/Pager_inc.php on line 136
+[May-25-2016 12:06:10] Unknown column 'CategoryID' in 'where clause' in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 58
+[May-25-2016 12:07:05] Undefined property: Game::$isValid in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 59
+[May-25-2016 12:14:20] SimpleXMLElement::__construct(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:14:20] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:14:20] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:14:20] SimpleXMLElement::__construct(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:14:20] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:14:20] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:50] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:52] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:22:54] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 62
+[May-25-2016 12:27:24] simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] simplexml_load_string(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] simplexml_load_string():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] simplexml_load_string(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] simplexml_load_string():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:27:24] Undefined property: News::$Price in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:27:24] Undefined property: News::$ReaDate in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:30:20] SimpleXMLElement::__construct(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:30:20] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:30:20] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:30:20] SimpleXMLElement::__construct(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:30:20] SimpleXMLElement::__construct(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:30:20] SimpleXMLElement::__construct():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 86
+[May-25-2016 12:34:52] simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] simplexml_load_string(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] simplexml_load_string():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] simplexml_load_string(): &lt;!doctype html&gt;&lt;html itemscope=&quot;&quot; itemtype=&quot;http://schema.org/WebPage&quot; lang=&quot;en&quot; in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] simplexml_load_string():  ^ in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 63
+[May-25-2016 12:34:52] Undefined variable: x in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 65
+[May-25-2016 12:34:52] Undefined property: News::$Price in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:34:52] Undefined property: News::$ReaDate in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 70
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 71
+[May-25-2016 12:57:35] Undefined variable: story in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 12:57:35] Trying to get property of non-object in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_view.php on line 72
+[May-25-2016 13:01:43] Undefined index: Category in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 82
+[May-25-2016 13:01:43] Undefined index: Category in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 82
+[May-25-2016 13:01:43] Undefined index: Category in /home/rattananeak/rattananeak.com/itc250/sp16/news/news_list.php on line 82
+[May-25-2016 13:03:47] Undefined variable: cat in /home/rattananeak/rattananeak.com/itc250/sp16/news/index.php on line 64
+[May-25-2016 13:03:47] Undefined variable: cat in /home/rattananeak/rattananeak.com/itc250/sp16/news/index.php on line 64
+[May-25-2016 13:03:47] Undefined variable: cat in /home/rattananeak/rattananeak.com/itc250/sp16/news/index.php on line 64

@@ -1,0 +1,2 @@
+[May-20-2016 16:55:39] Cannot modify header information - headers already sent by (output started at /home/rattananeak/rattananeak.com/itc250/sp16/surveys/survey_view.php:8) in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/config_inc.php on line 39
+[May-20-2016 16:55:39] Cannot modify header information - headers already sent by (output started at /home/rattananeak/rattananeak.com/itc250/sp16/surveys/survey_view.php:8) in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/config_inc.php on line 39

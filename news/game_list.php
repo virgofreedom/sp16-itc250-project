@@ -22,12 +22,12 @@ require '../inc_0700/config_inc.php'; #provides configuration, pathing, error ha
  
 if(isset($_GET['id'])){
     $id = $_GET['id'];
-    $condition = "Where CatergoryID='$id'";
+    $condition = "Where CategoryID='$id'";
 }else{
     $condition = "";
 }
 # SQL statement
-$sql = "select * from srv_News $condition";
+$sql = "select * from srv_Games $condition";
 $count = "";
 setlocale(LC_MONETARY,"en_US");
 #Fills <title> tag. If left empty will default to $PageTitle in config_inc.php  
@@ -61,9 +61,6 @@ $count = mysqli_num_rows($result);
 <h3 align="left"><?=$count?> Shooter Game Results </h3>
 
 <?php
-if (isset($_GET['cat'])){
-        $cat = $_GET['cat'];
-    }
 #reference images for pager
 $prev = '<img src="' . VIRTUAL_PATH . 'images/arrow_prev.gif" border="0" />';
 $next = '<img src="' . VIRTUAL_PATH . 'images/arrow_next.gif" border="0" />';
@@ -76,20 +73,26 @@ $sql = $myPager->loadSQL($sql);  #load SQL, add offset
 
 if(mysqli_num_rows($result) > 0)
 {#records exist - process
-	if($myPager->showTotal()==1){$itemz = "item";}else{$itemz = "items";}  //deal with plural
+	if($myPager->showTotal()==1){$itemz = "game";}else{$itemz = "games";}  //deal with plural
     
 	while($row = mysqli_fetch_assoc($result))
 	{# process each row
-         echo '<div class="col-sm-6 col-md-4 col-lg-3">
-                    <div class="col-sm-12">
-                        <a href="' . VIRTUAL_PATH . 'news/news_view.php?id='.(int)$row['NewsID'].'&cat='.$cat .'">' . dbOut($row['Title']) . '</a></br>
+         echo '<div class="col-sm-12 col-md-6 col-lg-6">
+                    <div class="col-sm-3">
+                        <img src="'.VIRTUAL_PATH.'upload/'.dbOut($row['Thumnail']).'_thumb.jpg" alt="' . dbOut($row['GameName']) . '" class="img-thumbnail img-responsive">
+                    </div>
+                    <div class="col-sm-9">
+                        <a href="' . VIRTUAL_PATH . 'games/game_view.php?id=' . (int)$row['GameID'] . '">' . dbOut($row['GameName']) . '</a></br>
+                        <p>for '.dbOut($row['GameDevice']).'</p>
+                        <p>'.money_format("%i",dbOut($row['GamePrice'])).'</p>
+                        <p>Release date '.dbOut($row['ReleaseDate']).'</p>
                     </div>
                 ';
          echo '</div>';
 	}
 	echo $myPager->showNAV(); # show paging nav, only if enough records	 
 }else{#no records
-    echo "<div align='center'>They are currently no items!</div>";	
+    echo "<div align='center'>They are currently no games!</div>";	
 }
 @mysqli_free_result($result);
 

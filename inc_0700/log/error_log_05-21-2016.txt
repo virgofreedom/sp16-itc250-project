@@ -1,0 +1,41 @@
+[May-21-2016 6:50:35] Undefined variable: myID in /home/rattananeak/rattananeak.com/itc250/sp16/surveys/survey_view.php on line 29
+[May-21-2016 6:50:35] Undefined variable: myID in /home/rattananeak/rattananeak.com/itc250/sp16/surveys/survey_view.php on line 35
+[May-21-2016 8:09:16] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 8:09:16] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 8:10:16] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 8:10:16] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:29:30] Table 'rattana_admin.srv_Admin' doesn't exist in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 761
+[May-21-2016 12:38:22] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:38:22] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:38:59] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:38:59] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:00] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:00] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:54] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:54] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:56] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:39:56] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:41:21] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:41:21] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 12:59:17] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 47
+[May-21-2016 12:59:17] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 65
+[May-21-2016 12:59:17] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 65
+[May-21-2016 12:59:17] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 72
+[May-21-2016 12:59:17] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 72
+[May-21-2016 12:59:17] Undefined index: AdminID in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 74
+[May-21-2016 12:59:17] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_edit.php on line 76
+[May-21-2016 13:05:37] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_reset.php on line 59
+[May-21-2016 13:05:37] Undefined index: Privilege in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_reset.php on line 66
+[May-21-2016 13:22:24] Undefined index: admin-red in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_login.php on line 62
+[May-21-2016 13:23:40] Undefined index: admin-red in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_login.php on line 62
+[May-21-2016 13:24:30] Undefined index: admin-red in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_login.php on line 62
+[May-21-2016 13:25:02] Undefined index: admin-red in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_login.php on line 62
+[May-21-2016 13:25:27] Missing argument 1 for session_eliminate(), called in /home/rattananeak/rattananeak.com/itc250/sp16/admin/admin_login.php on line 64 and defined in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/session_db_inc.php on line 140
+[May-21-2016 13:25:27] Undefined variable: sid in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/session_db_inc.php on line 145
+[May-21-2016 17:02:57] Undefined index: Title in /home/rattananeak/rattananeak.com/itc250/sp16/games/game_list.php on line 80
+[May-21-2016 17:02:57] Undefined index: Title in /home/rattananeak/rattananeak.com/itc250/sp16/games/game_list.php on line 80
+[May-21-2016 17:07:50] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 17:07:50] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 17:08:47] mysqli_connect(): (HY000/2002): Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 17:08:47] Connection timed out in /home/rattananeak/rattananeak.com/itc250/sp16/inc_0700/common_inc.php on line 1271
+[May-21-2016 17:58:51] Undefined variable: row in /home/rattananeak/rattananeak.com/itc250/sp16/games/game_view.php on line 64
