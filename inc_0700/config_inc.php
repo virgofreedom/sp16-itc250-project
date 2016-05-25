@@ -73,19 +73,25 @@ $config->copyright = 'Cotlets, Not Applets, &copy; 2014 - ' . date('Y'); #goes i
 $config->sidebar1 = '
 <h3 align="center">Sidebar 1</h3>
 ';
+startSession();
 $config->sidebar2 = '<h3 align="center">Sidebar 2</h3>'; #sidebars can be overwritten (or added to) in individual pages
-if(startSession() && isset($_SESSION['AdminID']))
+if(session_read('AdminID') != "")
 {#add admin logged in info to sidebar
-	$config->sidebar2 .= '<p align="center">' . $_SESSION['Privilege'] . ' <b>' . $_SESSION['FirstName'] . '</b> is logged in.</p>';
+	$config->sidebar2 .= '<p align="center">' . session_read('Privilege') . ' <b>' . session_read('FirstName') . '</b> is logged in.</p>';
 	$config->sidebar2 .= '<p align="center"><a href="' . $config->adminDashboard . '">ADMIN</a></p>';
 	$config->sidebar2 .= '<p align="center"><a href="' . $config->adminLogout . '">LOGOUT</a></p>';
+	$nav1['news/news_add.php'] = "Add Feed~to add new feed";
 }	
 $config->sidebar2 .= '
 <p>Here is our sidebar area which is inside a header or footer include file. You can change it in the main config file or 
 change it on a page by page basis by altering config settings inside individual pages.</p> 
 ';
 #add Admin link to nav1 if not Bootswatch theme
-if(startSession() && isset($_SESSION['AdminID']) && $config->theme != 'Bootswatch'){$nav1[$config->adminDashboard] = "ADMIN~Go to Administrative Page";}#admin page added to link only if logged in
+if(session_read('AdminID') != "" && $config->theme != 'Bootswatch')
+{
+	$nav1[$config->adminDashboard] = "ADMIN~Go to Administrative Page";
+	
+}#admin page added to link only if logged in
 #nav1 is the main navigation - tilde separator below splits text of link from title attribute
 $nav1['index.php'] = "Home~A model for building largely static web pages";
 $nav1['surveys/'] = "Surveys~The entrance to our Survey App";

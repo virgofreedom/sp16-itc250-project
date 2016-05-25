@@ -21,5 +21,9 @@ startSession(); //wrapper for session_start()
 //session_destroy();# can't destroy session as will disable feedback - instead do it on login form!
 feedback("Logout Successful!", "notice");
 session_write('admin-red', THIS_PAGE);
+session_write('red', THIS_PAGE);
+session_write('AdminID', '');
+session_write('Privilege', '');
+
 myRedirect($config->adminLogin); # redirect for successful logout
 ?>

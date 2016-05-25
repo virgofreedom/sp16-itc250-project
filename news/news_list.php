@@ -22,7 +22,7 @@ require '../inc_0700/config_inc.php'; #provides configuration, pathing, error ha
  
 if(isset($_GET['id'])){
     $id = $_GET['id'];
-    $condition = "Where CatergoryID='$id'";
+    $condition = "Where CategoryID='$id'";
 }else{
     $condition = "";
 }
@@ -57,13 +57,14 @@ get_header(); #defaults to theme header or header_inc.php
 # connection comes first in mysqli (improved) function
 $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::conn()), E_USER_ERROR));
 $count = mysqli_num_rows($result);
-?>
-<h3 align="left"><?=$count?> Shooter Game Results </h3>
-
-<?php
 if (isset($_GET['cat'])){
         $cat = $_GET['cat'];
     }
+?>
+<h3 align="left">There are <?=$count?> <?=$cat?>'s categories Results </h3>
+
+<?php
+
 #reference images for pager
 $prev = '<img src="' . VIRTUAL_PATH . 'images/arrow_prev.gif" border="0" />';
 $next = '<img src="' . VIRTUAL_PATH . 'images/arrow_next.gif" border="0" />';
@@ -87,7 +88,7 @@ if(mysqli_num_rows($result) > 0)
                 ';
          echo '</div>';
 	}
-	echo $myPager->showNAV(); # show paging nav, only if enough records	 
+	echo $myPager->showNAV('<div align="center">','</div>','news_list.php'); # show paging nav, only if enough records	 
 }else{#no records
     echo "<div align='center'>They are currently no items!</div>";	
 }

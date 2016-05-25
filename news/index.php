@@ -45,7 +45,7 @@ $prev = '<img src="' . VIRTUAL_PATH . 'images/arrow_prev.gif" border="0" />';
 $next = '<img src="' . VIRTUAL_PATH . 'images/arrow_next.gif" border="0" />';
 
 # Create instance of new 'pager' class
-$myPager = new Pager(3,'',$prev,$next,'');
+$myPager = new Pager(10,'',$prev,$next,'');
 $sql = $myPager->loadSQL($sql);  #load SQL, add offset
 
 # connection comes first in mysqli (improved) function
@@ -61,7 +61,7 @@ echo '<div align="center">
 <a href="' . VIRTUAL_PATH . 'news/news_list.php?id=' . (int)$row['CategoryID'] . '&cat='.$row['Category'].'">' . dbOut($row['Category']) . '</a>';
 echo '</div>';
 	}
-	echo $myPager->showNAV(); # show paging nav, only if enough records	 
+	echo $myPager->showNAV('<div align="center">','</div>','index.php'); # show paging nav, only if enough records	 
 }else{#no records
     echo "<div align='center'>They are currently no catergories!</div>";	
 }

@@ -34,7 +34,7 @@ function bootswatchLinks($linkArray,$prefix='',$suffix='',$classPrefix='',$separ
 function bootswatchAdmin()
 {//add admin link to right if bootswatch
 	global $config;
-	if(startSession() && isset($_SESSION['AdminID']))
+	if(startSession() && session_read('AdminID') !="")
 	{#add admin logged in info to sidebar
 	
 		$nav[$config->adminDashboard] = "Admin~Go to Administrative Page";

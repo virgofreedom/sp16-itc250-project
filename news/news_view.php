@@ -104,8 +104,7 @@ class News{
             while ($row = mysqli_fetch_assoc($result))
             {
                 $this->Title = dbOut($row['Title']);
-                $this->Decription = dbOut($row['Description']);
-                $this->url = dbOut($row['url']);
+                
                 
             }
         }
