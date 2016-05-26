@@ -1,5 +1,6 @@
 <?php
 require '../inc_0700/config_inc.php'; #provides configuration, pathing, error handling, db credentials
+include_once INCLUDE_PATH . 'admin_only_inc.php'; #session protected page - level is defined in $access var
 get_header();
 //news_add.php
 if(!isset($_POST['submit']))

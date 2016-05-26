@@ -179,7 +179,7 @@ class Pager
 	 * @return string the adjusted SQL statement, with 
 	 */
 	
-	public function showNav($prefix='<div align="center">',$suffix='</div>',$url)
+	public function showNav($prefix='<div align="center">',$suffix='</div>',$url ='')
 	{//creates the NAV icons for paging
 		#Receiving an error on the following line means your page didn't pass the SQL statement through the method: $sql = $myPager->loadSQL($sql);
 		if(!$this->sqlLoaded){die(trigger_error("SQL statement not processed by Pager::loadSQL()", E_USER_ERROR));}
@@ -198,7 +198,13 @@ class Pager
 			}
 			
 			$maxPage = ceil($this->numrows/$this->rowsPerPage); //total pages
-			$self = $url;
+			if (isset($url)){
+				$self = $url;	
+			}else{
+				$self = $this->base_URL() . "/" . basename($_SERVER['PHP_SELF']);	
+			}
+			
+			
 			if ($this->pageNum > 1)
 			{
 				$page = $this->pageNum - 1;
