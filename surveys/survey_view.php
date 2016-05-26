@@ -72,7 +72,9 @@ class Survey{
     public $Title = '';
 	public $Description = '';
 	public $SurveyID =0;	
-    function __construct($id){
+    public $isValid = false;
+    public $Questions = array();
+    public function __construct($id){
         //forcibly cast the data to an int
         $id = (int)$id;
         
@@ -90,8 +92,37 @@ class Survey{
             }
         }
         @mysqli_free_result($result); # We're done with the data!
+        //Add Question objuects here
+        $sql = "select QuestionID, Question, Description  from srv_questions where SurveyID = " . $id;
+        # connection comes first in mysqli (improved) function
+        $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::conn()), E_USER_ERROR));
+    
+        if(mysqli_num_rows($result) > 0)
+        {#records exist - process
+            $this->isValid = TRUE;//survey exists	
+            while ($row = mysqli_fetch_assoc($result))
+            {
+              $this->Questions[] = new Question(
+                  dbOut($row['QuestionID']),
+                  dbOut($row['Question']),
+                  dbOut($row['Description'])
+                  );
+            }
+        }
+        @mysqli_free_result($result); # We're done with the data!
 	}//end Survey contructor
 }//end Survey Class
 
-
-
+class Question
+{
+    public $QuestionID = 0;
+    public $Text = '';
+    public $Description = '';
+    public function __construct($QuestionID,$Text, $Description)
+    {
+        $this->QuestionID = $QuestionID;
+        $this->Text = $Text;
+        $this->Description = $Description;
+    }//end Question constructor
+    
+}//end Question Clas
