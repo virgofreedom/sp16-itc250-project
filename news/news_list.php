@@ -20,22 +20,26 @@
   
 require '../inc_0700/config_inc.php'; #provides configuration, pathing, error handling, db credentials 
  
-if(isset($_GET['id'])){
+if(isset($_GET['id']))  {
     $id = $_GET['id'];
     $condition = "Where CategoryID='$id'";
-}else{
+}   else    {
     $condition = "";
 }
+
 # SQL statement
 $sql = "select * from srv_News $condition";
+
 $count = "";
+
 setlocale(LC_MONETARY,"en_US");
+
 #Fills <title> tag. If left empty will default to $PageTitle in config_inc.php  
-$config->titleTag = 'The Best games in Seattle';
+$config->titleTag = "The World's News at Your Fingertips ";
 
 #Fills <meta> tags.  Currently we're adding to the existing meta tags in config_inc.php
-$config->metaDescription = 'All the Best game you can find in seatlle. ' . $config->metaDescription;
-$config->metaKeywords = 'Games, Best, Seattle, Shooter, Sports'. $config->metaKeywords;
+$config->metaDescription = 'Explore Multiple International News Categories. ' . $config->metaDescription;
+$config->metaKeywords = 'Politics, World, Resources, Finance, People, Food'. $config->metaKeywords;
 
 /*
 $config->metaDescription = 'Web Database ITC281 class website.'; #Fills <meta> tags.
@@ -57,11 +61,12 @@ get_header(); #defaults to theme header or header_inc.php
 # connection comes first in mysqli (improved) function
 $result = mysqli_query(IDB::conn(),$sql) or die(trigger_error(mysqli_error(IDB::conn()), E_USER_ERROR));
 $count = mysqli_num_rows($result);
-if (isset($_GET['cat'])){
+if (isset($_GET['cat']))    {
         $cat = $_GET['cat'];
     }
 ?>
-<h3 align="left">There are <?=$count?> <?=$cat?>'s categories Results </h3>
+
+<h3 align="left">There are <?=$count?> <?=$cat?>'s Results in this Category </h3>
 
 <?php
 
@@ -71,28 +76,38 @@ $next = '<img src="' . VIRTUAL_PATH . 'images/arrow_next.gif" border="0" />';
 
 # Create instance of new 'pager' class
 $myPager = new Pager(10,'',$prev,$next,'');
-$sql = $myPager->loadSQL($sql);  #load SQL, add offset
-
-
-
-if(mysqli_num_rows($result) > 0)
-{#records exist - process
-	if($myPager->showTotal()==1){$itemz = "item";}else{$itemz = "items";}  //deal with plural
     
-	while($row = mysqli_fetch_assoc($result))
-	{# process each row
-         echo '<div class="col-sm-6 col-md-4 col-lg-3">
+#load SQL, add offset
+$sql = $myPager->loadSQL($sql);  
+
+
+# records exist - process data
+# if more than one row exists in srv_News then display plural
+if(mysqli_num_rows($result) > 0)    { 
+	if($myPager->showTotal()==1)   {
+        $itemz = 'item';
+    }   else    {   
+        $itemz = 'items';
+        }  
+    
+while($row = mysqli_fetch_assoc($result))  {
+    # process each row
+        echo '<div class="col-sm-6 col-md-4 col-lg-3">
                     <div class="col-sm-12">
                         <a href="' . VIRTUAL_PATH . 'news/news_view.php?id='.(int)$row['NewsID'].'&cat='.$cat .'">' . dbOut($row['Title']) . '</a></br>
                     </div>
-                ';
-         echo '</div>';
+                </div>';
 	}
-	echo $myPager->showNAV('<div align="center">','</div>','news_list.php'); # show paging nav, only if enough records	 
-}else{#no records
+# show paging nav, only if enough records	 
+echo $myPager->showNAV('<div align="center">','</div>','news_list.php');
+    
+}   else    {
+    #no records
     echo "<div align='center'>They are currently no items!</div>";	
 }
+    
 @mysqli_free_result($result);
 
 get_footer(); #defaults to theme footer or footer_inc.php
+    
 ?>
